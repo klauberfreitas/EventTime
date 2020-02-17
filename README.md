@@ -3,7 +3,8 @@
 ## UI/UX prototype 
 
 * Made on [Adobe Xd](https://www.adobe.com/br/products/xd.html).
-![UI-UX prototype](https://user-images.githubusercontent.com/10797704/73145745-09aba900-408e-11ea-9ee4-a608e08dead0.PNG)
+![EventTime](https://user-images.githubusercontent.com/10797704/74681643-b1565b80-51a2-11ea-927a-2a8628734dee.gif)
+
 
 ## Running the file
 
